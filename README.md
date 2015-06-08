@@ -41,3 +41,5 @@ http://localhost:8882/rest/mash
 #####一切ok后即可运行xcode制定到具体的iphone设备
 
 #####效果如下图
+ ![image](https://github.com/yangtao309/FaceMash/blob/master/782E9355-C3D3-4D3A-B21F-E693589C622D.png)
+ ![image](https://github.com/yangtao309/FaceMash/blob/master/9A0EC618-455A-4C2E-A4A2-913F31B7213A1.png)
