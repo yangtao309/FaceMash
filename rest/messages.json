@@ -1,0 +1,26 @@
+[
+    {
+        "user": {
+            "firstName": "Laurie",
+            "lastName": "Hunt",
+            "picture": "http://img0.bdstatic.com/img/image/44e206d007e8663c8161f386d2cbb9871409804255.jpg",
+            "userID": 1
+        },
+        "lastMessage": {
+            "contents": "Hey there!",
+            "timestamp": 1431300318000
+        }
+    },
+    {
+        "user": {
+            "firstName": "Candice",
+            "lastName": "Chapman",
+            "picture": "http://img0.bdstatic.com/img/image/3532f52c4f51f417bceafc99201e5bd81413443352.jpg",
+            "userID": 3
+        },
+        "lastMessage": {
+            "contents": "What's up?",
+            "timestamp": 1431300123000
+        }
+    }
+]
